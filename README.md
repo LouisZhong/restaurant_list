@@ -11,12 +11,34 @@
 <li><a href="https://nodejs.org/en/" target="_blank">Node.js</a></li>
 <li><a href="https://www.npmjs.com/package/express" target="_blank">Express</a></li>
 <li><a href="https://www.npmjs.com/package/express-handlebars" target="_blank">Express-Handlebars</a></li>
+<li><a href="https://www.npmjs.com/package/nodemon">Nodemon</a></li>
 </ul>
 
-安裝與執行步驟 
+## 專案安裝流程
 1.開啟終端機(Terminal) Clone本專案至本機電腦:
-    test
+‵‵‵
+https://github.com/LouisZhong/restaurant_list.git
+‵‵‵
 
+2.進入專案資料夾
+
+3.依序安裝npm、Express、Handlebars、Modemon
+‵‵‵
+npm install
+‵‵‵
+‵‵‵
+npm install express@4.18.2
+‵‵‵
+‵‵‵
+npm install express-handlebars@6.0.6
+‵‵‵
+‵‵‵
+npm install -g nodemon
+‵‵‵
+
+4.啟動伺服器
+npm run dev
+當終端機顯示"Express is listening on localhost:3000"，代表啟動成功，即可在瀏覽器輸入http://localhost:3000  開始瀏覽網頁
 
 
 網站功能
