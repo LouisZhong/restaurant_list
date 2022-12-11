@@ -1,11 +1,11 @@
-<h1>餐廳清單website</h1>
+# 餐廳清單website
 使用node.js + express + handlebars搭設地方餐聽查詢平台
 彙整各式各類餐廳，包含餐廳類型、餐廳圖片簡覽、餐廳評比、詳細資料等
 
-<h3>專案畫面</h3>
+## 專案畫面
 ![image](https://github.com/LouisZhong/restaurant_list/blob/main/public/img/cover.PNG)
 
-<h3>環境建置與需求</h3>
+## 環境建置與需求
 <ul>
 <li><a href="https://code.visualstudio.com/" target="_blank">Visual Studio code</a></li>
 <li><a href="https://nodejs.org/en/" target="_blank">Node.js</a></li>
@@ -23,18 +23,18 @@ https://github.com/LouisZhong/restaurant_list.git
 2.進入專案資料夾
 
 3.依序安裝npm、Express、Handlebars、Modemon
-‵‵‵
+```
 npm install
-‵‵‵
-‵‵‵
+```
+```
 npm install express@4.18.2
-‵‵‵
-‵‵‵
+```
+```
 npm install express-handlebars@6.0.6
-‵‵‵
-‵‵‵
+```
+```
 npm install -g nodemon
-‵‵‵
+```
 
 4.啟動伺服器
 npm run dev
