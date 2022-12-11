@@ -5,11 +5,11 @@
 ![image](https://github.com/LouisZhong/restaurant_list/blob/main/public/img/cover.PNG)
 
 ## 環境建置與需求
--[Visual Studio code](https://code.visualstudio.com/)
--[Node.js](https://nodejs.org/en/)
--[Express](https://www.npmjs.com/package/express)
--[Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
--[Nodemon](https://www.npmjs.com/package/nodemon)
+- [Visual Studio code](https://code.visualstudio.com/)
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://www.npmjs.com/package/express)
+- [Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
 
 ## 專案安裝流程
 1.開啟終端機(Terminal) Clone本專案至本機電腦:
@@ -44,6 +44,6 @@ npm run dev
 
 
 ## 網站功能
--卡片式簡覽地方餐廳，包含餐廳名稱、外觀、評比
--可快速搜尋餐廳名字
--點選後，可瀏覽餐廳詳細資料
+- 卡片式簡覽地方餐廳，包含餐廳名稱、外觀、評比
+- 可快速搜尋餐廳名字
+- 點選後，可瀏覽餐廳詳細資料
